@@ -1,0 +1,9 @@
+Hey first open VS2008 and then locate ScreenLock.sln file in this folder within that.
+
+That will work perfectly fine....
+
+
+and about this.close() What ever you do Form_closing() method will be called and system will be in unsafe state... So I have added a little more logic to determine whether the application is closing or not before calling the reloadhook() method....
+
+
+and I can perfectly open the MainPromptForm and all other forms in Design mode... sorry if there is any incompatibility between #developer and vs .. I don't know about all those things... hope this works fine... 
