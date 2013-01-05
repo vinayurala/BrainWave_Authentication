@@ -1,4 +1,5 @@
 PERSON AUTHENTICATION SYSTEM USING BRAIN WAVES AS BIOMETRIC
+Undergraduate Project
 ========================
 
 A Brain Computer Interface (BCI) is a computer device that helps a person operate a
